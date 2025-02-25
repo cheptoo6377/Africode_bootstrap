@@ -14,24 +14,8 @@ A hands-on learning module designed to master essential Bootstrap 5 concepts thr
 - *Layout Components*
   - Grid system
   - Flexbox utilities
-  - Containers and spacing
+  - Containers and 
   
-- *Interactive Elements*
-  - Modals
-  - Carousel
-  - Accordion
-  
-- *Content Styling*
-  - Typography
-  - Lists (UL/OL)
-  - Responsive images
-  
-- *Structural Components*
-  - Footer design
-  - Cards
-  - Sections
-
-## Learning Objectives
 - Understanding Bootstrap's grid system
 - Implementing responsive design principles
 - Working with Bootstrap components
